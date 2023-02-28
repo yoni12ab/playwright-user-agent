@@ -1,0 +1,374 @@
+HTTP [33m37[39m: call onSocket [33m0[39m [33m0[39m
+HTTP [33m37[39m: createConnection try-playwright-test.herokuapp.com:443::::::::::::::::::::: [Object: null prototype] {
+  protocolVersion: [33m13[39m,
+  [1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K
+
+[1A[2K{"href":"https://www.cheapshark.com/cdn-cgi/rum?","headers":{"referer":"https://www.cheapshark.com/","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36","content-type":"application/json"}}
+
+[1A[2K{"href":"https://www.cheapshark.com/text_logo.csv","headers":{"accept":"*/*","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+
+[1A[2K{"href":"https://www.cheapshark.com/api/other/getTweets","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+
+[1A[2K{"href":"https://www.cheapshark.com/img/bullet.png","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+
+[1A[2K[32m  1 passed[39m[2m (4.2s)[22m
+
+ion: maybeEnableKeylog][39m
+    },
+    _eventsCount: [33m2[39m,
+    _maxListeners: [90mundefined[39m,
+    defaultPort: [33m443[39m,
+    protocol: [32m'https:'[39m,
+    options: [Object: null prototype] { path: [1mnull[22m },
+    requests: [Object: null prototype] {},
+    sockets: [Object: null prototype] {},
+    freeSockets: [Object: null prototype] {},
+    keepAliveMsecs: [33m1000[39m,
+    keepAlive: [33mfalse[39m,
+    maxSockets: [33mInfinity[39m,
+    maxFreeSockets: [33m256[39m,
+    scheduling: [32m'lifo'[39m,
+    maxTotalSockets: [33mInfinity[39m,
+    totalSocketCount: [33m0[39m,
+    maxCachedSessions: [33m100[39m,
+    _sessionCache: { map: {}, list: [] },
+    [[32mSymbol(kCapture)[39m]: [33mfalse[39m
+  },
+  servername: [32m'try-playwright-test.herokuapp.com'[39m,
+  _agentKey: [32m'try-playwright-test.herokuapp.com:443:::::::::::::::::::::'[39m
+}
+HTTP [33m37[39m: outgoing message end.
+(node:37) Warning: Setting the NODE_DEBUG environment variable to 'http' can expose sensitive data (such as passwords, tokens and authentication headers) in the resulting log.
+(Use node --trace-warnings ... to show where the warning was created)
+HTTP [33m37[39m: sockets try-playwright-test.herokuapp.com:443::::::::::::::::::::: [33m1[39m [33m1[39m
+HTTP [33m37[39m: requestTimeout timer moved to req
+HTTP [33m37[39m: AGENT incoming response!
+HTTP [33m37[39m: CLIENT socket onRemove
+HTTP [33m37[39m: removeSocket try-playwright-test.herokuapp.com:443::::::::::::::::::::: writable: [33mtrue[39m
+HTTP [33m37[39m: call onSocket [33m0[39m [33m0[39m
+HTTP [33m37[39m: createConnection www.cheapshark.com:443::::::::::::::::::::: [Object: null prototype] {
+  protocol: [32m'https:'[39m,
+  hostname: [32m'www.cheapshark.com'[39m,
+  hash: [32m''[39m,
+  search: [32m'?storeID=1&upperPrice=15'[39m,
+  pathname: [32m'/api/1.0/deals'[39m,
+  path: [1mnull[22m,
+  href: [32m'https://www.cheapshark.com/api/1.0/deals?storeID=1&upperPrice=15'[39m,
+  method: [32m'GET'[39m,
+  headers: {
+    [32m'user-agent'[39m: [32m'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36'[39m,
+    accept: [32m'*/*'[39m,
+    [32m'accept-encoding'[39m: [32m'gzip,deflate,br'[39m
+  },
+  agent: HttpsHappyEyeballsAgent {
+    _events: [Object: null prototype] {
+      free: [36m[Function (anonymous)][39m,
+      newListener: [36m[Function: maybeEnableKeylog][39m
+    },
+    _eventsCount: [33m2[39m,
+    _maxListeners: [90mundefined[39m,
+    defaultPort: [33m443[39m,
+    protocol: [32m'https:'[39m,
+    options: [Object: null prototype] { path: [1mnull[22m },
+    requests: [Object: null prototype] {},
+    sockets: [Object: null prototype] {
+      [32m'www.cheapshark.com:443:::::::::::::::::::::'[39m: []
+    },
+    freeSockets: [Object: null prototype] {},
+    keepAliveMsecs: [33m1000[39m,
+    keepAlive: [33mfalse[39m,
+    maxSockets: [33mInfinity[39m,
+    maxFreeSockets: [33m256[39m,
+    scheduling: [32m'lifo'[39m,
+    maxTotalSockets: [33mInfinity[39m,
+    totalSocketCount: [33m0[39m,
+    maxCachedSessions: [33m100[39m,
+    _sessionCache: { map: {}, list: [] },
+    [[32mSymbol(kCapture)[39m]: [33mfalse[39m
+  },
+  maxRedirects: [33m20[39m,
+  timeout: [33m30000[39m,
+  deadline: [33m31823.024[39m,
+  __testHookLookup: [90mundefined[39m,
+  _defaultAgent: Agent {
+    _events: [Object: null prototype] {
+      free: [36m[Function (anonymous)][39m,
+      newListener: [36m[Function: maybeEnableKeylog][39m
+    },
+    _eventsCount: [33m2[39m,
+    _maxListeners: [90mundefined[39m,
+    defaultPort: [33m443[39m,
+    protocol: [32m'https:'[39m,
+    options: [Object: null prototype] { path: [1mnull[22m },
+    requests: [Object: null prototype] {},
+    sockets: [Object: null prototype] {},
+    freeSockets: [Object: null prototype] {},
+    keepAliveMsecs: [33m1000[39m,
+    keepAlive: [33mfalse[39m,
+    maxSockets: [33mInfinity[39m,
+    maxFreeSockets: [33m256[39m,
+    scheduling: [32m'lifo'[39m,
+    maxTotalSockets: [33mInfinity[39m,
+    totalSocketCount: [33m0[39m,
+    maxCachedSessions: [33m100[39m,
+    _sessionCache: { map: {}, list: [] },
+    [[32mSymbol(kCapture)[39m]: [33mfalse[39m
+  },
+  port: [33m443[39m,
+  host: [32m'www.cheapshark.com'[39m,
+  servername: [32m'www.cheapshark.com'[39m,
+  _agentKey: [32m'www.cheapshark.com:443:::::::::::::::::::::'[39m
+}
+HTTP [33m37[39m: outgoing message end.
+HTTP [33m37[39m: sockets www.cheapshark.com:443::::::::::::::::::::: [33m1[39m [33m1[39m
+HTTP [33m37[39m: requestTimeout timer moved to req
+HTTP [33m37[39m: AGENT incoming response!
+HTTP [33m37[39m: AGENT socket.destroySoon()
+HTTP [33m37[39m: CLIENT socket onClose
+HTTP [33m37[39m: removeSocket www.cheapshark.com:443::::::::::::::::::::: writable: [33mfalse[39m
+HTTP [33m37[39m: HTTP socket close
+{"href":"https://www.cheapshark.com/","headers":{"accept-language":"en-US","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/cdn-cgi/apps/head/3pr16OqcGOdsc9auBtxjhsVXppQ.js","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/css/main.css?1670427461","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/css/mobile.css?1625833271","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/icomoon/style.css?1643743711","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/css/jquery-ui.min.css?1646837806","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://js.sentry-cdn.com/0f62e8c2c7fe4eb0b1181fb43f1b4d40.min.js","headers":{"referer":"https://www.cheapshark.com/","origin":"https://www.cheapshark.com","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/js/errors.js?1644849362","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/js/jquery-ui.min.js?1646790478","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/js/jquery.plugins.min.js?1620867290","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.google-analytics.com/analytics.js","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/z/i.js","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/js/global.js?1673796675","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/js/global_async.js?1649020579","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/js/main.js?1626354893","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/logo_image.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/logo_text.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/ajax/light.gif?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/footer_text.png","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993","headers":{"referer":"https://www.cheapshark.com/","origin":"https://www.cheapshark.com","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://fonts.googleapis.com/css2?family=Roboto&display=swap","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://browser.sentry-cdn.com/7.38.0/bundle.es5.min.js","headers":{"referer":"https://www.cheapshark.com/","origin":"https://www.cheapshark.com","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/backdrop.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/topBorder.png","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/search.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/icomoon/fonts/icomoon.ttf?kvh7ug","headers":{"referer":"https://www.cheapshark.com/icomoon/style.css?1643743711","origin":"https://www.cheapshark.com","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/dim.png","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2","headers":{"referer":"https://fonts.googleapis.com/","origin":"https://www.cheapshark.com","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.google-analytics.com/j/collect?v=1&_v=j99&a=1642133972&t=pageview&_s=1&dl=https%3A%2F%2Fwww.cheapshark.com%2F&ul=en-us&de=UTF-8&dt=CheapShark%20-%20PC%20Game%20Deals&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=885587225&gjid=1076725802&cid=1588156600.1677428923&tid=UA-31286303-1&_gid=1439764691.1677428923&_r=1&_slc=1&z=619133359","headers":{"referer":"https://www.cheapshark.com/","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36","content-type":"text/plain"}}
+{"href":"https://www.cheapshark.com/z/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIyQ2hlYXBTaGFyayUyMC0lMjBQQyUyMEdhbWUlMjBEZWFscyUyMiUyQyUyMnglMjIlM0EwLjkxMDA0MTA5Mjk3NDg4NDElMkMlMjJ3JTIyJTNBODAwJTJDJTIyaCUyMiUzQTYwMCUyQyUyMmolMjIlM0E2MDAlMkMlMjJlJTIyJTNBODAwJTJDJTIybCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGd3d3LmNoZWFwc2hhcmsuY29tJTJGJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EyNCUyQyUyMm4lMjIlM0ElMjJVVEYtOCUyMiUyQyUyMm8lMjIlM0EwJTJDJTIycSUyMiUzQSU1QiU1RCU3RA==","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j99&tid=UA-31286303-1&cid=1588156600.1677428923&jid=885587225&gjid=1076725802&_gid=1439764691.1677428923&_u=IEBAAEAAAAAAACAAI~&z=317494476","headers":{"referer":"https://www.cheapshark.com/","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36","content-type":"text/plain"}}
+{"href":"https://www.cheapshark.com/api/other/getStoreOverrides","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://o178242.ingest.sentry.io/api/1264632/envelope/?sentry_key=0f62e8c2c7fe4eb0b1181fb43f1b4d40&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.38.0","headers":{"referer":"https://www.cheapshark.com/","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36","content-type":"text/plain;charset=UTF-8"}}
+{"href":"https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j99&tid=UA-31286303-1&cid=1588156600.1677428923&jid=885587225&_u=IEBAAEAAAAAAACAAI~&z=1768618615","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.google.ie/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j99&tid=UA-31286303-1&cid=1588156600.1677428923&jid=885587225&_u=IEBAAEAAAAAAACAAI~&z=1768618615","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=1&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=11&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=3&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=23&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=15&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=27&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=7&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=21&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/api/1.0/deals?storeID=2&pageSize=7","headers":{"accept":"application/json, text/javascript, */*; q=0.01","referer":"https://www.cheapshark.com/","x-requested-with":"XMLHttpRequest","accept-language":"en-US","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/0.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/ajax/default.gif?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/10.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/2.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/22.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/14.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/26.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/6.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/20.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/banners/1.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/1.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/12.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/7.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/23.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/24.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/5.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/27.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/28.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/29.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/30.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/31.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/32.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/33.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/stores/icons/34.png?v=1.0","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/css/images/ui-icons_123_256x240.png?v=1.13.1","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/jquery-ui.min.css?1646837806","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}
+{"href":"https://www.cheapshark.com/img/link_normal.gif","headers":{"accept-language":"en-US","referer":"https://www.cheapshark.com/css/main.css?1670427461","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.19 Safari/537.36"}}

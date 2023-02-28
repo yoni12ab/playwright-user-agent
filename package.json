@@ -1,0 +1,20 @@
+{
+  "name": "playwrite-custom-user-aget",
+  "version": "1.0.0",
+  "description": "Playwrite custom user aget",
+  "scripts": {
+    "test": "node tests/server.js | playwright test"
+  },
+  "stackblitz": {
+    "startCommand": "npm test"
+  },
+  "keywords": [
+    "playwright",
+    "test"
+  ],
+  "author": "Yoni",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "1.31.1"
+  }
+}
